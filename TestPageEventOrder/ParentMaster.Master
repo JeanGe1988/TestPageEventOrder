@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="false" CodeBehind="ParentMaster.master.cs" Inherits="TestPageEventOrder.ParentMaster" %>
+<%@ Register Src="~/ParentMasterParentControl.ascx" TagPrefix="UC" TagName="ParentMasterParentControl" %>
+<%@ Register Src="~/ParentMasterParentControl2.ascx" TagPrefix="UC" TagName="ParentMasterParentControl2" %>
+<%@ Register Src="~/ParentMasterParentControl3.ascx" TagPrefix="UC" TagName="ParentMasterParentControl3" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <UC:ParentMasterParentControl runat="server" />
+        <UC:ParentMasterParentControl2 ID="ParentMasterParentControl1" runat="server" />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <UC:ParentMasterParentControl3 ID="ParentMasterParentControl2" runat="server" />
+    </div>
+    </form>
+</body>
+</html>

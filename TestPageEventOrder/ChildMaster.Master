@@ -1,0 +1,12 @@
+﻿<%@ Master Language="C#" AutoEventWireup="false" CodeBehind="ChildMaster.master.cs" Inherits="TestPageEventOrder.ChildMaster" MasterPageFile="~/ParentMaster.Master" %>
+
+<%@ Register Src="~/ChildMasterParentControl.ascx" TagPrefix="UC" TagName="ChildMasterParentControl" %>
+<%@ Register Src="~/ChildMasterParentControl2.ascx" TagPrefix="UC" TagName="ChildMasterParentControl2" %>
+<%@ Register Src="~/ChildMasterParentControl3.ascx" TagPrefix="UC" TagName="ChildMasterParentControl3" %>
+<asp:Content runat="server" ID="content2" ContentPlaceHolderID="ContentPlaceHolder2">
+    <UC:ChildMasterParentControl runat="server" />
+    <UC:ChildMasterParentControl2 ID="ChildMasterParentControl2" runat="server" />
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <UC:ChildMasterParentControl3 ID="ChildMasterParentControl3" runat="server" />
+</asp:Content>

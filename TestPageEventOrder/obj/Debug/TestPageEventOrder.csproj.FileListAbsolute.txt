@@ -1,0 +1,4 @@
+c:\users\jg58\documents\visual studio 2012\Projects\TestPageEventOrder\TestPageEventOrder\bin\TestPageEventOrder.dll
+c:\users\jg58\documents\visual studio 2012\Projects\TestPageEventOrder\TestPageEventOrder\bin\TestPageEventOrder.pdb
+c:\users\jg58\documents\visual studio 2012\Projects\TestPageEventOrder\TestPageEventOrder\obj\Debug\TestPageEventOrder.dll
+c:\users\jg58\documents\visual studio 2012\Projects\TestPageEventOrder\TestPageEventOrder\obj\Debug\TestPageEventOrder.pdb
