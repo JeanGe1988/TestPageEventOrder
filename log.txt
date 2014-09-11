@@ -1,0 +1,76 @@
+OnInit Parent Master Child Control
+OnInit Parent Master Parent Control
+OnInit Parent Master Child Control 2
+OnInit Parent Master Parent Control 2
+OnInit Child Master Child Control
+OnInit Child Master Parent Control 2
+OnInit Child Master Child Control 2
+OnInit Child Master Parent Control 2
+OnInit Content Page Child Control
+OnInit Content Page Parent Control
+OnInit Content Page Child Control 2
+OnInit Content Page Parent Control 2
+OnInit Child Master Child Control 3
+OnInit Child Master Parent Control 3
+OnInit Parent Master Child Control 3
+OnInit Parent Master Parent Control 3
+OnInit Parent Master
+OnInit Child Master
+OnInit Content Page
+OnLoad Content Page
+OnLoad Child Master
+OnLoad Parent Master
+OnLoad Parent Master Parent Control
+OnLoad Parent Master Child Control
+OnLoad Parent Master Parent Control 2
+OnLoad Parent Master Child Control 2
+OnLoad Child Master Parent Control 2
+OnLoad Child Master Child Control
+OnLoad Child Master Parent Control 2
+OnLoad Child Master Child Control 2
+OnLoad Content Page Parent Control
+OnLoad Content Page Child Control
+OnLoad Content Page Parent Control 2
+OnLoad Content Page Child Control 2
+OnLoad Child Master Parent Control 3
+OnLoad Child Master Child Control 3
+OnLoad Parent Master Parent Control 3
+OnLoad Parent Master Child Control 3
+OnPreRender Content Page
+OnPreRender Child Master
+OnPreRender Parent Master
+OnPreRender Parent Master Parent Control
+OnPreRender Parent Master Child Control
+OnPreRender Parent Master Parent Control 2
+OnPreRender Parent Master Child Control 2
+OnPreRender Child Master Parent Control 2
+OnPreRender Child Master Child Control
+OnPreRender Child Master Parent Control 2
+OnPreRender Child Master Child Control 2
+OnPreRender Content Page Parent Control
+OnPreRender Content Page Child Control
+OnPreRender Content Page Parent Control 2
+OnPreRender Content Page Child Control 2
+OnPreRender Child Master Parent Control 3
+OnPreRender Child Master Child Control 3
+OnPreRender Parent Master Parent Control 3
+OnPreRender Parent Master Child Control 3
+OnUnload Parent Master Child Control
+OnUnload Parent Master Parent Control
+OnUnload Parent Master Child Control 2
+OnUnload Parent Master Parent Control 2
+OnUnload Child Master Child Control
+OnUnload Child Master Parent Control 2
+OnUnload Child Master Child Control 2
+OnUnload Child Master Parent Control 2
+OnUnload Content Page Child Control
+OnUnload Content Page Parent Control
+OnUnload Content Page Child Control 2
+OnUnload Content Page Parent Control 2
+OnUnload Child Master Child Control 3
+OnUnload Child Master Parent Control 3
+OnUnload Parent Master Child Control 3
+OnUnload Parent Master Parent Control 3
+OnUnload Parent Master
+OnUnload Child Master
+OnUnload Content Page
